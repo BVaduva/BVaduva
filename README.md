@@ -12,6 +12,7 @@ I love solving logical puzzles and building robust data pipelines.
 | **[IoT Telemetry Service](https://github.com/BVaduva/telemetry-service)** | Java, Spring Boot | *(WIP)* A backend service to ingest and process telemetry data. |
 | **[Enterprise OSS Compliance ETL](https://github.com/BVaduva/oss-compliance-etl)** | PHP 8, MySQL, Docker | **Capstone Project / Case Study:** A production-grade ETL architecture (Automotive Sector). Docs & Architecture only. |
 | **[Real-Time Resource Management System](https://github.com/BVaduva/event-driven-simulation)** | GDScript (Python-like), Godot | Data-Driven simulation, priority dispatch and event handling. |
+| **[Local AI JobAgent](https://github.com/BVaduva/ai-jobagent-cli)** | Python | Vacancy scraper and analyzer to improve jobhunting efficiency. |
 
 ---
 
