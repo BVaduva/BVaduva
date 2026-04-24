@@ -17,8 +17,7 @@ I love solving logical puzzles and building robust data pipelines.
 ---
 
 ### 📚 Currently Learning
-* **Java / Spring Boot**
-* **C# / .NET Ecosystem** (Expanding backend capabilities)
+* **C# / .NET Ecosystem** (Expanding backend capabilities including Embedded Systems) 
 * **Software Architecture Patterns**
 
 ### 🏆 Certifications
