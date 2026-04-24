@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Junior Backend Developer with a strong focus on **Java**, **C# / .NET** and **System Architecture**.
+I'm a Junior Backend Developer with a strong focus on **C# / .NET**, **Python**, **Embedded Systems** and **System Architecture**.
 I love solving logical puzzles and building robust data pipelines.
 
 ---
