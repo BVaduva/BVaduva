@@ -10,6 +10,7 @@ I love solving logical puzzles and building robust data pipelines.
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[Edge Device Simulator (PoC)](https://github.com/BVaduva/cs-edge-simulator)** | C#, .NET | Asynchronous data and connection status generation. |
+| **[Stepstone Job Scraper](https://github.com/BVaduva/job-sentinel)** | Python, CTK | Asynchronous job-data scraping and displaying. |
 | **[IoT Telemetry Service (PoC)](https://github.com/BVaduva/telemetry-service)** | Java, Spring Boot | A backend service to ingest and process telemetry data. |
 | **[Enterprise OSS Compliance ETL](https://github.com/BVaduva/oss-compliance-etl)** | PHP 8, MySQL, Docker | **Capstone Project / Case Study:** A production-grade ETL architecture (Automotive Sector). Docs & Architecture only. |
 | **[Real-Time Resource Management System](https://github.com/BVaduva/event-driven-simulation)** | GDScript (Python-like), Godot | Data-Driven simulation, priority dispatch and event handling. |
